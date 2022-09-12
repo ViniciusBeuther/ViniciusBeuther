@@ -1,9 +1,11 @@
+ENGLISH:
 - 👋 Hi, I’m @ViniciusBeuther
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Html, Css and Algorithms.
 - 💞️ I’m looking to start in software/web development area.
 - 📫 How to reach me vinicius.beuther15@gmail.com.
 
+PORTUGUESE:
 - 👋 Olá, eu sou @ViniciusBeuther
 - 👀 Sou interessado em desenvolvimento de software e desenvolvimento web.
 - 🌱 Atualmente estou aprendendo HTML, Css e algoritmos.
