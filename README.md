@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m @ViniciusBeuther
-- 👀 I’m a lover of Software development.
 - 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking for my first oportunity as a Software Enginner.
+- 💞️ I’m looking for my first oportunity as a Front End Software Enginner.
 - 📫 How to reach me vinicius.beuther15@gmail.com.
 
 
