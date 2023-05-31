@@ -4,7 +4,6 @@
 <p align="center">🤖 Front-End enthusiast.</p>
 <p align="center">👀 Looking for a Front End opportunity.</p>
 
-+55 (47) 99122-2358.
 <table align="center">
   <tr>
     <td>
