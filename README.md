@@ -1,8 +1,8 @@
 
-- 👋 Hi, I’m @ViniciusBeuther
-- 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking for my first oportunity as a Front End Software Enginner.
-- 📫 How to reach me vinicius.beuther15@gmail.com.
+- 👋 Hello, I’m Vinicius E. Beuther.
+- 🤖 JavaScript and Python.
+- 👀 I’m looking for a Front End oportunity.
+- 📫 Contact me: vinicius.beuther15@gmail.com / +55 (47) 99122-2358.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBeuther&show_icons=true&theme=great-gatsby)
