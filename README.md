@@ -1,8 +1,6 @@
 
-<h1 align="center">Vinicius E. Beuther</h1>
-
-<p align="center">🤖 Front-End enthusiast.</p>
-<p align="center">👀 Looking for a Front End opportunity.</p>
+<h1 align="center">Vinicius Eduardo Beuther</h1>
+<h3 align="center">🤖 Front End Developer</h3>
 
 <table align="center">
   <tr>
