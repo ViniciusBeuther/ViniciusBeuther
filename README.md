@@ -6,20 +6,19 @@
 <p align="justify">My perspective about the tech market is that we have a large deficit of qualified professionals and there is a lot of small bussiness that doesn't have a website to help in their business and I saw in this an opportunity to help these people through the web development.</p>
 <br>
 
-<!-- GIF -->
-
-<table align="center">
+<!-- GIF / STATS -->
+<table align="center" hide_border=true>
   <tr align="center">
     <td align="center">
-        <img align="center"  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mzyt3xi1o1dfek9xrxubc3gxp2tndxt4j1m4zu88&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Gif">
-        <img border="None" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&theme=great-gatsby" alt="Top Languages">  
+        <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mzyt3xi1o1dfek9xrxubc3gxp2tndxt4j1m4zu88&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Gif">
+        <img border="None" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
   </tr>
 </table>
 
 <!-- STATS / STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBeuther&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusBeuther&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBeuther&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusBeuther&theme=dark&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="400">
 </p>
 
 <!-- TECHNOLOGIES -->
