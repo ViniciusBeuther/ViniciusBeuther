@@ -1,36 +1,26 @@
 <!-- NAME / DESCRIPTION -->
-<h1 align="center" >Vinicius Eduardo Beuther</h1>
-<h3 align="center">Front-end Developer</h3>
-<p align="justify">My name is Vinicius Eduardo Beuther, I'm 21 years old. I study web development since May of 2022, I work as Document Programmer/Developer providing outsourced service for a USA company.</p>
-<p align="justify">I learned HTML, CSS and Javascript during the last year, having a strong fundation in Javascript, I'm current learning about React JS, this is my professional choice due to the large community and resources that React JS have and because it's one of the most used library for web development.</p>
-<p align="justify">My perspective about the tech market is that we have a large deficit of qualified professionals and there is a lot of small bussiness that doesn't have a website to help in their business and I saw in this an opportunity to help these people through the web development.</p>
+<h1 align="left" >😎 Hello, world!</h1>
+<p align="justify">Welcome to my profile! </p>
+<p align="justify">I am Vinicius, a front-end developer and I live in Brazil. 🇧🇷 
 <br>
-
-<!-- GIF / STATS -->
-<table align="center" hide_border=true>
-  <tr align="center">
-    <td align="center">
-        <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mzyt3xi1o1dfek9xrxubc3gxp2tndxt4j1m4zu88&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Gif">
-        <img border="None" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
-  </tr>
-</table>
 
 <!-- STATS / STREAK -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBeuther&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusBeuther&theme=dark&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="400">
+<img border="None" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
 </p>
-
+<h1></h1>
 <!-- TECHNOLOGIES -->
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Vini-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-Sass" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="Vini-Sass" height="30" width="60" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
   <img align="center" alt="Vini-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Sass" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 #
-
 <!-- SOCIAL MEDIA -->
 <div align="center"> 
   <a href="https://instagram.com/viniciusbeuther" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
