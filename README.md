@@ -1,7 +1,7 @@
 <!-- NAME / DESCRIPTION -->
 <h1 align="left" >😎 Hello, world!</h1>
 <p align="justify">Welcome to my profile! </p>
-<p align="justify">I am Vinicius, a front-end developer and I live in Brazil. 🇧🇷 
+<p align="justify">I am Vinicius, I'm a React.js engineer, currently living in Brazil. 🇧🇷 
 <br>
 
 <!-- STATS / STREAK -->
@@ -27,4 +27,8 @@
   <a href = "mailto:vinicius.beuther15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+<br>
+<div align="center">
+  <a href="https://app.daily.dev/viniciusebeuther"><img src="https://api.daily.dev/devcards/v2/YO6iUK4cqfrXxmKT86Vea.png?type=wide&r=s8b" width="652" alt="Vinicius E Beuther's Dev Card"/></a>
 </div>
