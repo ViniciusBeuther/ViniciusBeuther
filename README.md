@@ -36,8 +36,7 @@
   <a href="https://instagram.com/viniciusbeuther" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinicius.beuther15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://app.daily.dev/viniciusebeuther" target="_blank"><img src="https://img.shields.io/badge/-DailyDev-%230077B5?style=for-the-badge&logo=dailydev&logoColor=black" target="_blank"></a>
-  
+    
 </div>
 <br>
 <div align="center">
