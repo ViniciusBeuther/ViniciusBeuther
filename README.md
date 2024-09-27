@@ -1,7 +1,13 @@
 <!-- NAME / DESCRIPTION -->
-<h1 align="left" >😎 Hello, world!</h1>
+<h1 align="left" >Hello, world! 😎</h1>
 <p align="justify">Welcome to my profile! </p>
-<p align="justify">I am Vinicius, I'm a React.js engineer, currently living in Brazil. 🇧🇷 
+<p align="justify">Vinicius E. Beuther | <strong>React.js Engineer</strong> 🇧🇷
+  
+💻 Software engineer focused on the development of modern web applications. I've experience on technologies like **React.js**, Node.js, MySQL, Tailwind CSS, DaisyUI and Python.
+  
+🚀 I love to create functional solutions to solve real problems using agile and scalable approches.
+
+📍 Currently living on **Brazil**.
 <br>
 
 <!-- STATS / STREAK -->
@@ -29,6 +35,7 @@
   <a href="https://instagram.com/viniciusbeuther" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinicius.beuther15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://app.daily.dev/viniciusebeuther" target="_blank"><img src="https://img.shields.io/badge/-DailyDev-%230077B5?style=for-the-badge&logo=dailydev&logoColor=black" target="_blank"></a>
   
 </div>
 <br>
