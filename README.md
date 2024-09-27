@@ -28,6 +28,7 @@
   <img align="center" alt="Vini-Sass" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Vini-MySQL" height="100" width="100" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"> 
   <img align="center" alt="Vini-NodeJS" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png"> 
+  <img align="center" alt="Vini-NodeJS" height="60" width="60" src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png">
 </div>
 #
 <!-- SOCIAL MEDIA -->
