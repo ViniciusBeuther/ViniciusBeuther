@@ -6,11 +6,11 @@ FullStack Developer
 
 Welcome to my profile! I'm a software engineer.
 
-* 🌍  I'm based in Brazil / Santa Catarina
-* ✉️  You can contact me at [vinicius.beuther15@gmail.com](mailto:vinicius.beuther15@gmail.com)
-* 🧠  I'm learning Typescript
-* 🤝  I'm open to collaborating on Open source/Any kind of projects
-* ⚡  I'm a self learner who loves all kind of technologies
+* 🌍  I'm based in Brazil / Santa Catarina.
+* ✉️  You can contact me at [vinicius.beuther15@gmail.com](mailto:vinicius.beuther15@gmail.com).
+* 🧠  I'm learning Typescript / Java.
+* 🤝  I'm open to collaborating on Open source/Any kind of projects.
+* ⚡  I'm a self learner who loves all kind of technologies.
 
 <a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ViniciusBeuther?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
