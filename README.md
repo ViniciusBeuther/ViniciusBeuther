@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/ViniciusBeuther?logo=github&style=f
 ## Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBeuther&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="400">
-<img border="None" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
+<img border="None" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
 </p>
 
 ## Daily Dev
