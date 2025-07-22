@@ -1,29 +1,34 @@
 Hello World! I'm Vinicius E. Beuther   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-Fullstack Developer
+Java Developer
 -------------------
 
 Welcome to my profile! I'm a software developer.
 
-🌍  Brazil (Santa Catarina) / Sweden.
+🌍  Brazil (Santa Catarina).
 <br>
-✉️  You can contact me at [vinicius.beuther15@gmail.com](mailto:vinicius.beuther15@gmail.com).
+🇸🇪 Database and Web Specialization on Sweden
 <br>
-🧠  I'm currently learning Java and PHP.
+✉️  Reach me out at [vinicius.beuther15@gmail.com](mailto:vinicius.beuther15@gmail.com).
+
 <br>
-⚡  My passion is build applications from skretch, the whole software development process for all kind of fields.
 
 <a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ViniciusBeuther?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-## Skills
+![](https://komarev.com/ghpvc/?username=ViniciusBeuther&color=blueviolet)
+
+
+## Working with
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,git,bitbucket,elasticsearch,idea,regex&perline=10)](https://skillicons.dev)
+
+## Socials
+<p align="left"> <a href="https://www.dev.to/viniciusbeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/vinicius-e-beuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+
+## Skills set
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,typescript,react,tailwind,vite,git,npm,github,python,nodejs,express,postman,mysql,sqlite,vscode,idea,figma&perline=10)](https://skillicons.dev)
 
-## Leaning
-[![My Skills](https://skillicons.dev/icons?i=java,php&perline=10)](https://skillicons.dev)
-## Socials
-<p align="left"> <a href="https://www.dev.to/viniciusbeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/vinicius-e-beuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 <!-- STATS / STREAK -->
 
 ## Stats
