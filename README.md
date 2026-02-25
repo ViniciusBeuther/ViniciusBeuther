@@ -8,7 +8,7 @@ Welcome to my profile! I'm a software developer.
 
 🌍  Brazil (Santa Catarina).
 <br>
-🇸🇪 Database and Web Specialization on Sweden
+🇸🇪 Database and Web Dev Specialization by Halmstad University, Sweden
 <br>
 ✉️  Reach me out at [vinicius.beuther15@gmail.com](mailto:vinicius.beuther15@gmail.com).
 
