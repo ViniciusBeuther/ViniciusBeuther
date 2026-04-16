@@ -1,7 +1,7 @@
 Hello World! I'm Vinicius E. Beuther   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-Java Developer
+Software Developer (Fullstack)
 -------------------
 
 Welcome to my profile! I'm a software developer.
@@ -19,15 +19,27 @@ src="https://img.shields.io/github/followers/ViniciusBeuther?logo=github&style=f
 ![](https://komarev.com/ghpvc/?username=ViniciusBeuther&color=blueviolet)
 
 
-## Working with
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,git,bitbucket,idea,regex,php,laravel,next&perline=10)](https://skillicons.dev)
+## Programming Languages
+[![Programming](https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,php,python,java)](https://skills.syvixor.com)
+
+
+## Databases
+[![Databases](https://skills.syvixor.com/api/icons?perline=15&i=sqlserver,postgresql,mysql,sqlite,dbeaver)](https://skills.syvixor.com)
+
+
+## Frontend
+[![Frontend](https://skills.syvixor.com/api/icons?perline=15&i=reactjs,nextjs,tailwindcss)](https://skills.syvixor.com)
+
+## Backend
+[![Frontend](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,laravel,fastapi,junit5)](https://skills.syvixor.com)
+
+## Dev Tools
+[![Tools](https://skills.syvixor.com/api/icons?perline=15&i=git,github,bitbucket,jira,npm,postman,visualstudiocode,phpstorm,intellijidea)](https://skillicons.dev)
+
 
 ## Socials
-<p align="left"> <a href="https://www.dev.to/viniciusbeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/vinicius-e-beuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
-## Skills set
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,typescript,react,tailwind,vite,git,npm,github,python,nodejs,express,postman,mysql,sqlite,vscode,idea,figma&perline=10)](https://skillicons.dev)
+<p align="left"><a href="https://www.github.com/ViniciusBeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=github" /> <source media="(prefers-color-scheme: light)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=github" /> <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" /> </picture> </a> <a href="https://www.linkedin.com/in/viniciuseduardobeuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" /> <source media="(prefers-color-scheme: light)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" /> <img src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" /> </picture> </a> <a href="https://www.stackoverflow.com/users/vinicius-e-beuther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=stackoverflow" /> <source media="(prefers-color-scheme: light)" srcset="https://skills.syvixor.com/api/icons?perline=15&i=stackoverflow" /> <img src="https://skills.syvixor.com/api/icons?perline=15&i=stackoverflow"  /> </picture> </a></p>
 
 <!-- STATS / STREAK -->
 
@@ -37,7 +49,3 @@ src="https://img.shields.io/github/followers/ViniciusBeuther?logo=github&style=f
 <img border="None" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBeuther&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Top Languages">  
 </p>
 
-## Daily Dev
-<div align="left">
-  <a href="https://app.daily.dev/viniciusebeuther"><img src="https://api.daily.dev/devcards/v2/YO6iUK4cqfrXxmKT86Vea.png?type=wide&r=s8b" width="652" alt="Vinicius E Beuther's Dev Card"/></a>
-</div>
