@@ -11,7 +11,7 @@ B.Sc. in Information Systems (2026) • Exchange Student @ Halmstad University �
 
 ### Working on
 
-**Open Environmental Data Platform**
+**Dunkelflaute Radar Data Platform**
 <br>
   - S3 • Airflow • dbt • Docker • GitHub Actions
 <br>
